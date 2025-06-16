@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=FicDbWkofnI
 
 ### NotebookLM
 https://notebooklm.google.com/notebook/b8d51f6b-0fff-4761-af7f-e31c2774a4dd/audio
+https://notebooklm.google.com/notebook/b8d51f6b-0fff-4761-af7f-e31c2774a4dd/audio
