@@ -12,8 +12,14 @@ https://learn.microsoft.com/en-us/microsoft-desktop-optimization-pack/app-v/appv
 
 # Future
 https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-overview
+
+# Detailed Workflow
+https://www.anoopcnair.com/introducing-app-attach-with-app-v-package-suppo/
+https://learn.microsoft.com/en-us/microsoft-desktop-optimization-pack/app-v/appv-creating-and-managing-virtualized-applications
 https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-create-msix-image?tabs=cim
 https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup?tabs=portal
 https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-setup?tabs=powershell
+
+# Tools
 https://learn.microsoft.com/en-us/azure/virtual-desktop/app-attach-partner-solutions
 https://learn.microsoft.com/en-us/azure/virtual-desktop/msixmgr-tool-syntax-description
