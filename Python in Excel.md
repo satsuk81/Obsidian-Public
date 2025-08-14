@@ -1,3 +1,0 @@
-# What is Python in Excel? *Cc*d*
-Python in Excel is*is* a new feature that allows users to integrate Python directly into Excel spreadsheets. This means you can use Python code within cells to manipulate and analyse data, leveraging the power of Python's libraries for advanced calculations, data cleaning, and visualisation, all within the familiar Excel environment. The featureaims to combine the flexibility of Python with the user-friendliness of Excel.
-# Microsoft Articles 
