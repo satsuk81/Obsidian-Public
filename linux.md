@@ -1,13 +1,15 @@
 (
 mkdir -p ~/.ssh
 chmod 700 ~/.ssh
-echo [your-public-key-string] ~/.ssh/authorized_keys
+echo [publickey] >> ~/.ssh/authorized_keys
 chmod 600 ~/.ssh/authorized_keys
 cat ~/.ssh/authorized_keys
-#PasswordAuthentication no
-#ChallengeResponseAuthentication no
 sudo systemctl restart ssh
 )
+
+nano /etc/ssh/sshd_config
+PasswordAuthentication no
+ChallengeResponseAuthentication no
 
 (
 sudo apt-get update
