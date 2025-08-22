@@ -27,4 +27,6 @@
 
 [Hair Up](https://music.youtube.com/watch?v=Z5cYi1q24JU&si=5w2-GtZFwdAuRNvY)
 
-[]()
+[Barbie Girl](https://music.youtube.com/watch?v=77zog6Up_Yg&si=EpYT1yqDVOe0j4Xt)
+
+
